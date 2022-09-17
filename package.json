@@ -16,5 +16,10 @@
     "prettier-plugin-solidity": "^1.0.0-beta.24",
     "solhint": "^3.3.7",
     "solidity-coverage": "^0.8.2"
+  },
+  "dependencies": {
+    "moralis": "^2.4.0",
+    "react-moralis": "^1.4.2",
+    "web3uikit": "^1.0.4"
   }
 }
